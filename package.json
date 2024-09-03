@@ -14,7 +14,8 @@
   "dependencies": {
     "less": "^4.2.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "serve": "^14.2.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
@@ -30,5 +31,5 @@
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1"
   },
-  "homepage": "https://effysan.github.io/MessageAppFrontend"
+  "homepage": "https://effysan.github.io/"
 }
